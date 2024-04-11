@@ -6,17 +6,6 @@
 
 I'm a 1337/42 Network Student based in Khouribga. I specialize in Future Software Engineer. I'm passionate about creating technology that improves lives and am always looking for new challenges and opportunities to learn and grow.
 
-#### 🔭 Current Projects
-
-**Ft_IRC**
-- **Description**: Ft_IRC is a project where I developed an Internet Relay Chat (IRC) server from scratch. This project involved deep dives into network programming, protocol management, and real-time multi-user communication. The server is capable of handling multiple chat rooms, direct messaging, and robust user connections, built using C++. The main challenges were ensuring stability, efficient data handling, and concurrency, providing a thorough understanding of how real-time communication technologies work under the hood.
-
-**Inception**
-- **Description**: Inception is focused on containerization and orchestration, utilizing Docker and Docker-compose. The goal is to deploy a small web application in a setup mimicking a real production environment. This project includes multiple containers with separate roles—web server, application, and database—each configured with specific requirements and security in mind. The challenge lies in managing inter-container communication and maintaining data persistence while ensuring minimal downtime and high availability.
-
-**Ft_transcendence**
-- **Description**: This ambitious project challenges me to create a website for hosting Pong contests, encompassing user registration, matchmaking systems, and live games. The project emphasizes a strict adherence to using pure Ruby for backend development (unless overridden by a specific module choice) and vanilla JavaScript for the frontend. The aim is to develop a seamless single-page application that supports real-time multiplayer games, adhering closely to security best practices and offering a robust user management system. The essence of the project lies in not just recreating the classic game of Pong but in building a comprehensive platform around it, showcasing my full-stack development skills and my ability to implement complex web functionalities from scratch.
-
 #### 🌟 Highlights
 
 - **[Achievement or Experience]**: Describe a significant achievement or experience in your career.
