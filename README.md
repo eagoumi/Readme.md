@@ -1,6 +1,4 @@
-<div align="center">
 ### Hi there, I'm Agoumi El Mehdi! 👋
-</div>
 
 ---
 
