@@ -1,4 +1,6 @@
-### Hi there, I'm Agoumi El Mehdi! 👋
+<h1 align="center">
+Hi there, I'm Agoumi El Mehdi! 👋
+</h1>
 
 ---
 
