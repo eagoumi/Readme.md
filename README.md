@@ -6,6 +6,8 @@
 
 I'm a 1337/42 Network Student based in Khouribga. I specialize in Future Software Engineer. I'm passionate about creating technology that improves lives and am always looking for new challenges and opportunities to learn and grow.
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/eagoumi" alt="eagoumi's 42 stats" /></a>
+
 ### Talking about Personal Stuff:
 
 <!-- - 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/) -->
@@ -37,6 +39,19 @@ I'm a 1337/42 Network Student based in Khouribga. I specialize in Future Softwar
 We once participated in a 2-Months British Council where we developed a fully Solution about Club For Studying Strategy without get bored from scratch without any prior planning. Not only did we manage to finish the app, but our team also won the third Place between 15 Teams 'Most Creative Solution' award!
 
 ---
+
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	  <li><b>OS:</b> macOS Sonoma</li>
+	    <li><b>Laptop: </b> MacBook Pro (i9 2019)</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b>Medium, Linkedin, Twitter and StackOverflow.</li>
+	</ul>	
+</details>
 
 ### My GitHub Stats
 
