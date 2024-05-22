@@ -8,7 +8,7 @@ Hi there, I'm Agoumi El Mehdi! 👋
 
 I'm a 1337/42 Network Student based in Khouribga. I specialize in Future Software Engineer. I'm passionate about creating technology that improves lives and am always looking for new challenges and opportunities to learn and grow.
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/eagoumi" alt="eagoumi's 42 stats" /></a>
+<!-- -- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/water/eagoumi" alt="eagoumi's 42 stats" /></a> --->
 
 ### Talking about Personal Stuff:
 
